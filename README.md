@@ -1,8 +1,6 @@
 # Policy Proposal Corpus
 
-A collection of independent policy research and proposals examining institutional modernization, regulatory efficiency, and evidence-based governance.
-
-Each document is designed as a standalone policy brief or overview, presenting policy problems, proposed solutions, and evaluation frameworks without requiring additional context.
+A collection of independent policy research and proposals examining institutional modernization, regulatory efficiency, and evidence-based governance. Each document is designed as a standalone policy brief or overview, presenting policy problems, proposed solutions, and evaluation frameworks without requiring additional context.
 
 ## Policy Documents
 
