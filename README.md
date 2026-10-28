@@ -1,14 +1,14 @@
 # Policy Proposal Corpus
 
-A collection of independent policy research and proposal documents developed as part of an ongoing initiative exploring institutional modernization, economic policy, and evidence-based governance.
+A collection of independent policy research and proposals examining institutional modernization, regulatory efficiency, and evidence-based governance.
 
-Each document is designed as a standalone policy brief or overview, readable independently of the broader policy corpus.
+Each document is designed as a standalone policy brief or overview, presenting policy problems, proposed solutions, and evaluation frameworks without requiring additional context.
 
 ## Policy Documents
 
 | Document | Domain | Document Type | Overview |
 |---|---|---|---|
-| [From DevOps to GovOps](./From%20DevOps%20to%20GovOps.pdf) | Regulatory Modernization | Legislative Policy Research Sample | Proposes a version-controlled regulatory architecture linking legal provisions to administrative workflows. Introduces cross-jurisdictional comparisons, multidimensional evaluation of regulatory costs and protective outcomes, and quasi-experimental policy pilots to help lawmakers identify and test regulatory improvements. |
+| [From DevOps to GovOps](./From%20DevOps%20to%20GovOps%20Writing%20Sample.pdf) | Regulatory Modernization | Legislative Policy Research Sample | Proposes a version-controlled regulatory architecture linking legal provisions to administrative workflows. Introduces cross-jurisdictional comparisons, multidimensional evaluation of regulatory costs and protective outcomes, and quasi-experimental policy pilots to help lawmakers identify and test regulatory improvements. |
 
 ## Related Technical Research
 
