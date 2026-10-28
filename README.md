@@ -1,14 +1,17 @@
-# policy-proposal-corpus
+# Policy Proposal Corpus
 
-This is a collection of policy proposal documents from the Futures Project. Each document is built to be a standalone overview or policy brief to be readable independently and out of context from the rest of the policy corpus.
+A collection of independent policy research and proposal documents developed as part of an ongoing initiative exploring institutional modernization, economic policy, and evidence-based governance.
 
-## Table of Contents:
+Each document is designed as a standalone policy brief or overview, readable independently of the broader policy corpus.
+
+## Policy Documents
 
 | Document | Domain | Document Type | Overview |
 |---|---|---|---|
-| [From DevOps to GovOps](./From%20DevOps%20to%20GovOps.pdf) | Regulatory Modernization | Illustrative sample | Applies software-engineering principles to allow lawmakers to optimize regulatory environments for the protection they confer, the speed and ease of doing business, and the costs associated with compliance. |
-| [Care Delivery Reform — Overview](./Care%20Delivery%20Reform%20Overview.pdf) | Healthcare | Overview | Proposes a two-layer healthcare architecture that separates shoppable market-based care from a universal insurance floor for emergencies. It is structured as an overview (detailing which changes need to be made to care delivery writ large) and aims to achieve the same outcomes as a single payer system while avoiding a government takeover and other pitfalls that have sunk healthcare proposals in the past. |
+| [From DevOps to GovOps](./From%20DevOps%20to%20GovOps.pdf) | Regulatory Modernization | Legislative Policy Research Sample | Proposes a version-controlled regulatory architecture linking legal provisions to administrative workflows. Introduces cross-jurisdictional comparisons, multidimensional evaluation of regulatory costs and protective outcomes, and quasi-experimental policy pilots to help lawmakers identify and test regulatory improvements. |
 
-## About the Futures Project:
+## Related Technical Research
 
-The Futures Project is a modular policy platform. Reforms are designed to stand on their own while reinforcing shared objectives across the platform.
+The companion repository, [Applied Causal Policy Research](https://github.com/LeeMcFarling/applied-causal-policy-research), documents experiments in machine-readable policy repositories, AI-assisted gap and maturity analysis, and retrieval-augmented research review.
+
+This includes page-level PDF citation tracking, LLM-as-judge evaluation, and human verification of research claims and supporting evidence.
